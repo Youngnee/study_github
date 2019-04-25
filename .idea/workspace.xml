@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7dcf48d-d0e6-45e9-b68e-df6919eaf842" name="Default" comment="">
+<<<<<<< HEAD
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day09.txt" afterPath="$PROJECT_DIR$/day09.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/save_file.py" afterPath="$PROJECT_DIR$/save_file.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day09.txt" afterPath="$PROJECT_DIR$/day09.txt" />
+    </list>
+>>>>>>> Tom_dev
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +20,22 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf />
+=======
+    <leaf>
+      <file leaf-file-name="day09.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day09.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+>>>>>>> Tom_dev
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,7 +43,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/save_file.py" />
+=======
+>>>>>>> Tom_dev
         <option value="$PROJECT_DIR$/day09.txt" />
       </list>
     </option>
@@ -40,6 +63,10 @@
     <option name="width" value="1533" />
     <option name="height" value="759" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+>>>>>>> Tom_dev
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -75,8 +102,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+<<<<<<< HEAD
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+=======
+>>>>>>> Tom_dev
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -90,6 +120,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -234,12 +265,17 @@
       <method />
     </configuration>
   </component>
+=======
+>>>>>>> Tom_dev
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="b7dcf48d-d0e6-45e9-b68e-df6919eaf842" name="Default" comment="" />
+=======
+>>>>>>> Tom_dev
       <created>1556173302330</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -249,8 +285,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1533" height="759" extended-state="6" />
+<<<<<<< HEAD
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12867408" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12867408" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> Tom_dev
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -271,9 +313,12 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+<<<<<<< HEAD
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
   </component>
+=======
+>>>>>>> Tom_dev
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -287,7 +332,11 @@
         <state relative-caret-position="462">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
+<<<<<<< HEAD
             <element signature="e#0#31#0" expanded="true" />
+=======
+            <element signature="e#0#31#0" expanded="false" />
+>>>>>>> Tom_dev
           </folding>
         </state>
       </provider>
